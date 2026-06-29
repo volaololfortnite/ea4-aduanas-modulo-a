@@ -349,6 +349,14 @@ export default function App() {
                   La declaración ha sido registrada de manera conforme en el Sistema de Control de Fronteras del Servicio Nacional de Aduanas.
                 </p>
               </div>
+              <div className="flex flex-col items-center py-6">
+                <img 
+                  src={`https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ID-TRAMITE-${Math.floor(Math.random()*1000000)}-VALIDADO`} 
+                  alt="Código QR de validación" 
+                  className="w-32 h-32 border border-gray-300 p-1"
+                />
+                <p className="text-[9px] font-bold text-gray-400 uppercase mt-2">Código QR de Trámite</p>
+              </div>
 
               {/* Receipt details */}
               <div className="bg-gray-50 border border-gray-200 p-6 flex flex-col space-y-4 font-mono text-xs">
