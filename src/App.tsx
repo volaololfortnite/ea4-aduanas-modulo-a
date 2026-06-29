@@ -226,6 +226,7 @@ export default function App() {
                     id="document-attachment" 
                     className="hidden" 
                     onChange={handleFileChange} 
+                    required
                   />
                   <label 
                     htmlFor="document-attachment"
