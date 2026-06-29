@@ -1,0 +1,6 @@
+{
+  "name": "Control Fronterizo Aduanas Chile",
+  "description": "Prototipo de interfaz web para el Sistema Integrado de Control Fronterizo, simulando un sitio web gubernamental clásico de escritorio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
