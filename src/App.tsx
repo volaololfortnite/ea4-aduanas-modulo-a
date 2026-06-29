@@ -319,7 +319,7 @@ export default function App() {
                       id="submit-button"
                       type="submit"
                       disabled={isSubmitting}
-                      className="px-2 py-1 bg-blue-200 text-black text-xs"
+                      className="px-8 py-3 bg-[#0055b8] text-white font-bold uppercase tracking-wide border-b-4 border-[#003366] hover:bg-[#004499] active:border-b-0 active:translate-y-[2px] transition-all cursor-pointer flex items-center justify-center space-x-2"
                     >
                       {isSubmitting ? (
                         <>
