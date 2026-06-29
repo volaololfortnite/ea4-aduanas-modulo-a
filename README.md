@@ -22,3 +22,4 @@ Historial de versiones
 | v1.4 | Feat: Generación de código QR (HU-03) | Integración de vista final con QR de validación | Cristobal Montealegre |
 | v1.5 | Fix: Agrega botón de descarga PDF en pantalla final (Hallazgo 3) | Se suma funcionalidad de respaldo para el pasajero | Javier Villagran |
 
+
