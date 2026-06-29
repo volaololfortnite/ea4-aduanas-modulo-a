@@ -214,6 +214,7 @@ export default function App() {
                     onChange={(e) => setWithMinors(e.target.checked)}
                     className="w-4 h-4 border border-gray-400 text-[#003399] cursor-pointer focus:ring-0"
                   />
+                  {/* HU-02: Formulario de declaración de menores activado */}
                   <label htmlFor="with_minors" className="text-sm font-medium text-gray-700 cursor-pointer select-none">
                     ¿Viaja con menores de edad?
                   </label>
