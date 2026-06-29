@@ -7,8 +7,10 @@ Integrantes
 - Cristobal Montealegre
 - Javier Villagran
 
-Enlace al prototipo (Google AI Studio)
-https://ai.studio/apps/5f0e8c0a-24bb-471e-83a1-dc2852069908?fullscreenApplet=true
+Enlaces al prototipo (Google AI Studio)
+- V1 (versión inicial): https://ai.studio/apps/30082549-35b3-4118-8776-642f3bd5cad7
+- V2 (versión intermedia): https://ai.studio/apps/687b9ea7-4e7b-453a-97ec-9e05e94c24c3
+- V3 (versión final con mejoras): https://ai.studio/apps/5f0e8c0a-24bb-471e-83a1-dc2852069908
 
 Historial de versiones
 | Versión | Commit / mensaje | Cambio realizado | Responsable |
